@@ -19,15 +19,15 @@ Ability to handle credit operations and transactions.
 Modular structure for potential future improvements.
 
 # What you’ll find in this repository
-[ER Diagram.jpeg] – diagram of the database structure.
+(ER Diagram.jpeg) – diagram of the database structure.
 
-[Documentation.docx]– additional details and explanation (if available).
+(Documentation.docx)– additional details and explanation (if available).
 
-[BankDB script.sql] – SQL scripts to create and populate the database.
+(BankDB script.sql) – SQL scripts to create and populate the database.
 
-[ Data analysis (query).sqlğ [BankDB join query.sql] [View and Index.sql]- Analytics queries
+(Data analysis (query).sql) (BankDB join query.sql) (View and Index.sql)- Analytics queries
 
-[Bank Management System] – source code for the user interface.
+(Bank Management System) – source code for the user interface.
 
 
 # Notes
