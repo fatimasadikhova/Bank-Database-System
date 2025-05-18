@@ -19,13 +19,13 @@ Ability to handle credit operations and transactions.
 Modular structure for potential future improvements.
 
 # What you’ll find in this repository
-/database – SQL scripts to create and populate the database.
+BankDB script – SQL scripts to create and populate the database.
 
-/software – source code for the user interface.
+Bank Management System – source code for the user interface.
 
-ER_Model.png – diagram of the database structure.
+ER Diagram – diagram of the database structure.
 
-documentation/ – additional details and explanation (if available).
+Documentation – additional details and explanation (if available).
 
 # Notes
 I created this project to practice database design, apply what I've learned about stored procedures, views, and joins, and gain hands-on experience building a working system from scratch. It helped me connect theoretical knowledge with real-world application.
